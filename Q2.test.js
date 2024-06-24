@@ -13,7 +13,7 @@ describe("Running test for Perfect Square", () => {
 
 describe("Running test for Fibonacci", () => {
     it("Should be a Fibonacci number", () => {
-        isPerfectSquare(4);
+       
     });
 
     it("Should not be a Fibonacci number", () => {
